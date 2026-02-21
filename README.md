@@ -1,4 +1,4 @@
-# Jeel-Patel---Portfolio
+# Jeel Patel-Portfolio
 
 <div align="center">
 
