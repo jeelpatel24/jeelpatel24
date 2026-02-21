@@ -80,17 +80,6 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jeelpatel24&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=94a3b8&cache_seconds=1800" alt="Jeel's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeelpatel24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=94a3b8&cache_seconds=1800" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jeelpatel24&theme=dark&hide_border=true&background=0d1117&ring=00f5ff&fire=a855f7&currStreakLabel=00f5ff&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff&mode=weekly)
@@ -98,16 +87,6 @@
 <br/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeelpatel24&bg_color=0d1117&color=00f5ff&line=a855f7&point=ffffff&area=true&area_color=00f5ff&hide_border=true&custom_title=Jeel%27s%20Contribution%20Graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=jeelpatel24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
